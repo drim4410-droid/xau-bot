@@ -72,7 +72,7 @@ Risk/Reward: *1:{rr}*
                     send_message(message)
 
             last_price = price
-            time.sleep(300)
+            time.sleep(295)
 
         except Exception:
             time.sleep(60)
